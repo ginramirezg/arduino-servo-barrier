@@ -1,7 +1,7 @@
 
 # Barrera Automática con Arduino y Sensor Ultrasónico
 
-Este proyecto consiste en una barrera automática controlada por un **Arduino Uno**, un **servo motor** y un **sensor ultrasónico HC-SR04**. Además, se incluye el diseño e impresión 3D de las piezas que componen la base y la pluma de la barrera.
+Este proyecto consiste en una barrera automática controlada por un **Arduino Uno**, un **servo motor** y un **sensor ultrasónico HC-SR04**. Además, se incluye el diseño e impresión 3D de las piezas que componen la base y la barrera.
 
 ##  Componentes
 
@@ -11,7 +11,7 @@ Este proyecto consiste en una barrera automática controlada por un **Arduino Un
 - LEDs (verde, amarillo, rojo)  
 - Resistencias  
 - Cables de conexión  
-- Base y pluma impresas en 3D (archivos STL incluidos)
+- Base y barrera impresas en 3D (archivos STL incluidos)
 
 ## Funcionamiento
 
